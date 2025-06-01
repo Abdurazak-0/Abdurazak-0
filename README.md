@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurazak-0" alt="abdurazak-0" /></a> </p>
 
-- 🌱 I’m currently learning **CMCC College and my major is CYBER SECURITY**
+- 🌱 I’m currently learning **in CMCC College and my major is CYBER SECURITY**
 
 - 👯 I’m looking to collaborate on **cyber security**
 
